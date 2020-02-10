@@ -19,10 +19,8 @@
 		B67CA33C67B3F709268A81CEBCEF3A70 /* ic_skip@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = A564C1F34322EF9182E5D9EB477C30F1 /* ic_skip@3x.png */; };
 		BBDC7CDEF1E01DA79801E13EF73AFF34 /* TinderSwipeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C13CC0B68663828615E1D335DB4D6E3 /* TinderSwipeView.swift */; };
 		C6A6F0841837788F7F0ED31C5C694668 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		C942DF9F8FAB011E0A84F7ECD0768766 /* overlay_skip@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6700175C7EA9BFE5CA93636939DFCE94 /* overlay_skip@3x.png */; };
 		CBA6968A1E1081358C147FCAF3CB1267 /* Pods-TinderSwipeView_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CFD05525ADEAD2914A7610EB3E046BC4 /* Pods-TinderSwipeView_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E7973FE780FB2B4DC9ECFA093C5FF870 /* ic_like@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = FAAF5AA08B3DA5A428505D5ECA7A4325 /* ic_like@3x.png */; };
-		EE6618620B0FC17B4ED547561D817037 /* overlay_like@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 69FC83C14A4A95CF63C43AEE12A5094D /* overlay_like@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,8 +43,6 @@
 		59EDC8FCC98D905B85266898DA58BAFF /* Pods-TinderSwipeView_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TinderSwipeView_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		5C13CC0B68663828615E1D335DB4D6E3 /* TinderSwipeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TinderSwipeView.swift; path = TinderSwipeView/Classes/TinderSwipeView.swift; sourceTree = "<group>"; };
 		5C8D63E0E40931A00452E5419F0DD2D7 /* overlay_like.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = overlay_like.png; path = TinderSwipeView/Resources/overlay_like.png; sourceTree = "<group>"; };
-		6700175C7EA9BFE5CA93636939DFCE94 /* overlay_skip@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "overlay_skip@3x.png"; path = "TinderSwipeView/Resources/overlay_skip@3x.png"; sourceTree = "<group>"; };
-		69FC83C14A4A95CF63C43AEE12A5094D /* overlay_like@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; name = "overlay_like@3x.png"; path = "TinderSwipeView/Resources/overlay_like@3x.png"; sourceTree = "<group>"; };
 		8662D5C5BCA35133555DFE78C0CEA09F /* Pods-TinderSwipeView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TinderSwipeView_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		891317DB3CF0F18E945F900EB32C035F /* Pods_TinderSwipeView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TinderSwipeView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		9103E7C7020A5FF45530DB80008F282E /* TinderSwipeView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TinderSwipeView.xcconfig; sourceTree = "<group>"; };
@@ -105,9 +101,7 @@
 				E7C1FB07F5F80667BC70D0F930323D06 /* ic_skip@2x.png */,
 				A564C1F34322EF9182E5D9EB477C30F1 /* ic_skip@3x.png */,
 				5C8D63E0E40931A00452E5419F0DD2D7 /* overlay_like.png */,
-				69FC83C14A4A95CF63C43AEE12A5094D /* overlay_like@3x.png */,
 				AF7B97135FFD3D837C5BD16C26F03C50 /* overlay_skip.png */,
-				6700175C7EA9BFE5CA93636939DFCE94 /* overlay_skip@3x.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -294,9 +288,7 @@
 				98DC16644C6CCBCBF907D2DCE59515AA /* ic_skip@2x.png in Resources */,
 				B67CA33C67B3F709268A81CEBCEF3A70 /* ic_skip@3x.png in Resources */,
 				560897DE14D12DBAD00B92352164FECA /* overlay_like.png in Resources */,
-				EE6618620B0FC17B4ED547561D817037 /* overlay_like@3x.png in Resources */,
 				4C3F6E723914A41A0D6517199D298DAF /* overlay_skip.png in Resources */,
-				C942DF9F8FAB011E0A84F7ECD0768766 /* overlay_skip@3x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

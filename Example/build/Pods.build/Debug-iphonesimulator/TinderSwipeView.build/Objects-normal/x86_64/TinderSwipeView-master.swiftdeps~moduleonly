@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "da1182e3b2a8e535e8378c4b2924c13c"
+build_time: [1581366336, 28143000]
+inputs:
+  "/Users/benjaminpollard/Projects/tinderview/Example/Pods/TinderSwipeView/TinderSwipeView/Classes/TinderCard.swift": [1581366163, 978778058]
+  "/Users/benjaminpollard/Projects/tinderview/Example/Pods/TinderSwipeView/TinderSwipeView/Classes/TinderSwipeView.swift": [1581366163, 979031722]
